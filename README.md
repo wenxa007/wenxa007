@@ -1,4 +1,8 @@
-## Hi there 👋
+## 简简单单 👋
+🌱 I’m currently learning Advanced copy paste
+<br />
+![image](https://github.com/wenxa007/wenxa007/assets/126782305/02011739-8217-4441-86ec-94f35b2e0e54)
+
 
 <!--
 **wenxa007/wenxa007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
